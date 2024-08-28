@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub!
+I'm passionate about developing solutions that make a difference. Whether it's building scalable APIs, diving into microservices.
+I love to explore and contribute to impactful projects.
 
-<!--
-**iTheia/iTheia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Current Projects
+- FitMe API: Building a backend for a fitness app that enables users to create private exercise groups, share progress, and customize routines. Fitness meets community and tech.
+- Exploring microservices architectures.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Deepening my knowledge of NestJS and microservices.
+- Experimenting with GraphQL
+- Leerning about pandas for data managment
