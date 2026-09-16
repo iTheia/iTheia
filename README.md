@@ -38,6 +38,6 @@ A backend starter I keep so new services don't begin with a week of boilerplate.
 
 ## Elsewhere
 
-[LinkedIn](https://linkedin.com/in/marlon-giovanni) · martinez.ded@gmail.com
+[LinkedIn](https://linkedin.com/in/gio-martinez-dev) · martinez.ded@gmail.com
 
 Spanish (native) · English (C1) · Portuguese (learning)
