@@ -13,7 +13,7 @@ Seven years in, currently running day-to-day delivery for a cross-functional tea
 **[Elvia](https://github.com/iTheia/elvia)** — *System design + NestJS PoC*
 A WhatsApp service that reaches Latin American technical-school graduates on graduation day and matches them to jobs through a guided conversation. Event-driven and serverless, because graduation dates cluster into spikes and the system is idle the rest of the time. The repo carries a full technical specification: four conversation flows including opt-out and mid-conversation reset, plus every technology choice recorded with its trade-offs.
 
-**[Loan Management Microservices](https://github.com/iTheia/loan-management-microservices)** — *Python, TypeScript, Docker*
+**[Loan Management Microservices](https://github.com/iTheia/Microservice-Example)** — *Python, TypeScript, Docker*
 A two-service system: an API gateway and a standalone internal auth service. Auth issues short-lived access tokens signed with RSA and distributes the public key so other services validate independently — with a fallback validation endpoint for services that can't hold the key. Domain-driven layering, a base repository abstracting common persistence, Alembic migrations with seed data, and a Postman collection.
 
 **[FitMe API](https://github.com/fitmeorg/fitme-api)** — *NestJS, MongoDB, BullMQ*
