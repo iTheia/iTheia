@@ -1,4 +1,4 @@
-# Marlon "Gio" Martínez
+# Gio Martínez
 
 **Backend Engineer — Microservices & AI** · Bogotá, Colombia
 
